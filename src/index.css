@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cream text-espresso font-sans antialiased;
+  }
+}
+
+@layer utilities {
+  .paper-texture {
+    background-color: #f5ecd7;
+    background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' viewBox='0 0 160 160' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23c4a882' fill-opacity='0.07'%3E%3Ccircle cx='20' cy='20' r='1.2'/%3E%3Ccircle cx='80' cy='40' r='1.2'/%3E%3Ccircle cx='140' cy='20' r='1.2'/%3E%3Ccircle cx='40' cy='100' r='1.2'/%3E%3Ccircle cx='120' cy='120' r='1.2'/%3E%3Ccircle cx='20' cy='140' r='1.2'/%3E%3Ccircle cx='100' cy='80' r='1.2'/%3E%3Ccircle cx='60' cy='60' r='1.2'/%3E%3C/g%3E%3C/svg%3E");
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
