@@ -22,7 +22,8 @@ export const CATEGORIES: Category[] = [
   {
     id: "velas-de-molde",
     title: "Velas de molde",
-    subtitle: "Cera de soja moldeada a mano, pieza por pieza.",
+    subtitle:
+      "Velas con formas únicas, aromatizan cualquier espacio, y decoran de una forma especial",
     products: [
       {
         id: "arcoiris",
@@ -443,7 +444,8 @@ export const CATEGORIES: Category[] = [
   {
     id: "velas-en-contenedor",
     title: "Velas en contenedor",
-    subtitle: "Velas en frascos y cerámica, listas para encender.",
+    subtitle:
+      "Velas en contenedores de madera, cemento o vidrio. Especiales para vos que te gustan encender velitas en cada momento especial, y que aromaticen todo tu espacio.",
     products: [
       {
         id: "cuenco-madera-8cm",
@@ -487,7 +489,8 @@ export const CATEGORIES: Category[] = [
   {
     id: "piezas-de-yeso-cemento",
     title: "Piezas de yeso y cemento",
-    subtitle: "Detalles minimalistas en blanco para tu hogar.",
+    subtitle:
+      "Detalles que decoran tus espacios con sus terminaciones prolijas y sus colores especiales que combinan con tu hogar",
     products: [
       {
         id: "florero-rayado-pico",
