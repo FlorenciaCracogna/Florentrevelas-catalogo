@@ -203,6 +203,241 @@ export const CATEGORIES: Category[] = [
         video:
           "https://res.cloudinary.com/degpir9vr/video/upload/v1787517195/oso-mo%C3%B1o-video.mp4",
       },
+      {
+        id: "cactus-redondo",
+        name: "Cactus redondo",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523588/cactus-redondo-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523586/cactus-redondo-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523586/cactus-redondo-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523585/cactus-redondo-video.mp4",
+      },
+      {
+        id: "cactus",
+        name: "Cactus",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523585/cactus-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523583/cactus-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523582/cactus-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523581/cactus-video.mp4",
+      },
+      {
+        id: "tulipan",
+        name: "Tulipán",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523580/tulipan-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523579/tulipan-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523579/tulipan-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523579/tulipan-video.mp4",
+      },
+      {
+        id: "pimpollo-rosa",
+        name: "Pimpollo rosa",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523576/pimpollo-rosa-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523576/pimpollo-rosa-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523575/pimpollo-rosa-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523575/pimpollo-rosa-video.mp4",
+      },
+      {
+        id: "semicirculo-rosas",
+        name: "Semicírculo rosas",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523573/semicirculo-rosas-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523573/semicirculo-rosas-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523572/semicirculo-rosas-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523570/semicirculo-rosas-video.mp4",
+      },
+      {
+        id: "rosa-mediana",
+        name: "Rosa mediana",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523569/rosa-mediana-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523568/rosa-mediana-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523568/rosa-mediana-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523568/rosa-mediana-video.mp4",
+      },
+      {
+        id: "peonia-grande",
+        name: "Peonia grande",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523565/peonia-grande-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523565/peonia-grande-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523564/peonia-grande-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523564/peonia-grande-video.mp4",
+      },
+      {
+        id: "flor-loto",
+        name: "Flor de loto",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523562/flor-loto-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523561/flor-loto-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523561/flor-loto-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523561/flor-loto-video.mp4",
+      },
+      {
+        id: "flor-corazon",
+        name: "Flor corazón",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523558/flor-corazon-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523558/flor-corazon-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523557/flor-corazon-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523557/flor-corazon-video.mp4",
+      },
+      {
+        id: "peonia-chica",
+        name: "Peonia chica",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523555/peonia-chica-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523554/peonia-chica-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523554/peonia-chica-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523553/peonia-chica-video.mp4",
+      },
+      {
+        id: "suculenta-grande-redondeada",
+        name: "Suculenta grande redondeada",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523551/suculenta-grande-redondeada-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523550/suculenta-grande-redondeada-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523550/suculenta-grande-redondeada-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523550/suculenta-grande-redondeada-video.mp4",
+      },
+      {
+        id: "suculenta-grande-puntas",
+        name: "Suculenta grande puntas",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523547/suculenta-grande-puntas-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523547/suculenta-grande-puntas-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523546/suculenta-grande-puntas-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523545/suculenta-grande-puntas-video.mp4",
+      },
+      {
+        id: "girasol",
+        name: "Girasol",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523545/girasol-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523542/girasol-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523540/girasol-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523541/girasol-video.mp4",
+      },
+      {
+        id: "margarita",
+        name: "Margarita",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523540/margarita-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523539/margarita-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787523540/margarita-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787523540/margarita-video.mp4",
+      },
+      {
+        id: "rosa-chica",
+        name: "Rosa chica",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525826/rosa-chica-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525824/rosa-chica-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525824/rosa-chica-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787525811/rosa-chica-video.mp4",
+      },
+      {
+        id: "corazon",
+        name: "Corazón",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525810/corazon-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525809/corazon-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525809/corazon-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787525808/corazon-video.mp4",
+      },
+      {
+        id: "mariposa",
+        name: "Mariposa",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525807/mariposa-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525806/mariposa-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787525805/mariposa-video.mp4",
+      },
+      {
+        id: "globo",
+        name: "Globo",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525803/globo-1.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787525802/globo-video.mp4",
+      },
+      {
+        id: "suculentas-chicas-variadas",
+        name: "Suculentas chicas variadas",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525826/suculentas-chicas-variadas-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525827/suculentas-chicas-variadas-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787525801/suculentas-chicas-variadas-video.mp4",
+      },
+      {
+        id: "flores-chicas-variadas",
+        name: "Flores chicas variadas",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525835/rosas-chicas-variadas-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787525831/rosas-chicas-variadas-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787525803/rosas-chicas-variadas-video.mp4",
+      },
     ],
   },
   {
