@@ -445,7 +445,7 @@ export const CATEGORIES: Category[] = [
     id: "velas-en-contenedor",
     title: "Velas en contenedor",
     subtitle:
-      "Velas en contenedores de madera, cemento o vidrio. Especiales para vos que te gustan encender velitas en cada momento especial, y que aromaticen todo tu espacio.",
+      "Velas en contenedores de madera, cemento o vidrio. Especiales para vos que te gusta encender velitas en cada momento especial, y que aromatizan todo tu espacio.",
     products: [
       {
         id: "cuenco-madera-8cm",
@@ -483,6 +483,262 @@ export const CATEGORIES: Category[] = [
         ],
         video:
           "https://res.cloudinary.com/degpir9vr/video/upload/v1787526519/cuenco-madera-12cm-video.mp4",
+      },
+      {
+        id: "caramelera-rayada",
+        name: "Caramelera rayada",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592817/caramelera-rayada-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592817/caramelera-rayada-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592807/caramelera-rayada-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592785/caramelera-facetada-rayada-video.mp4",
+      },
+      {
+        id: "caramelera-facetada",
+        name: "Caramelera facetada",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592785/caramelera-facetada-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592785/caramelera-facetada-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592785/caramelera-facetada-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592785/caramelera-facetada-rayada-video.mp4",
+      },
+      {
+        id: "cuenco-bochin",
+        name: "Cuenco bochín",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592784/cuenco-bochin-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592784/cuenco-bochin-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592782/cuenco-bochin-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592782/cuenco-bochin-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592782/cuenco-bochin-5.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592780/cuenco-bochin-6.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592781/cuenco-bochin-video.mp4",
+      },
+      {
+        id: "cuenco-facetado",
+        name: "Cuenco facetado",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592779/cuendo-facetado-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592779/cuendo-facetado-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592779/cuendo-facetado-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592778/cuendo-facetado-video.mp4",
+      },
+      {
+        id: "cuenco-cuadrado",
+        name: "Cuenco cuadrado",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592776/cuenco-cradrado-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592776/cuenco-cradrado-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592775/cuenco-cradrado-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592775/cuenco-cradrado-video.mp4",
+      },
+      {
+        id: "cuenco-bolitas",
+        name: "Cuenco bolitas",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592774/cuenco-bolitas-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592769/cuenco-bolitas-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592770/cuenco-bolitas-video.mp4",
+      },
+      {
+        id: "cuenco-bochin-chico",
+        name: "Cuenco bochín chico",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592769/cuenco-bochin-chico-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592769/cuenco-bochin-chico-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592770/cuenco-bochin-chico-video.mp4",
+      },
+      {
+        id: "cuenco-lata",
+        name: "Cuenco lata",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592769/cuenco-lata-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592769/cuenco-lata-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787592768/cuenco-lata-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787592770/cuenco-lata-video.mp4",
+      },
+      {
+        id: "cuenco-vidrio-doble",
+        name: "Cuenco vidrio doble",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595233/cuenco-vidrio-doble-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595233/cuenco-vidrio-doble-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595233/cuenco-vidrio-doble-3.jpg",
+        ],
+      },
+      {
+        id: "vaso-yogurtero",
+        name: "Vaso yogurtero",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595191/cuenco-yogurtero-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595190/cuenco-yogurtero-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595191/cuenco-yogurtero-3.jpg",
+        ],
+      },
+      {
+        id: "vaso-chico",
+        name: "Vaso chico",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595191/vaso-chico-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595191/vaso-chico-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595190/vaso-chico-3.jpg",
+        ],
+      },
+      {
+        id: "frascos",
+        name: "Frascos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595135/cuenco-frasco-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595122/cuenco-frasco-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595110/cuenco-frasco-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595190/cuenco-frasco-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787595148/cuenco-frasco-5.jpg",
+        ],
+      },
+      {
+        id: "vaso-grande-facetado",
+        name: "Vaso grande facetado",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594129/vaso-grande-facetado-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594129/vaso-grande-facetado-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594128/vaso-grande-facetado-3.jpg",
+        ],
+      },
+      {
+        id: "cuenco-nena",
+        name: "Cuenco nena",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594147/cuenco-nena-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594147/cuenco-nena-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787594147/cuenco-nena-video.mp4",
+      },
+      {
+        id: "cuenco-gnomo",
+        name: "Cuenco gnomo",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594146/cuenco-gnomo-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594146/cuenco-gnomo-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787594145/cuenco-gnomo-video.mp4",
+      },
+      {
+        id: "cuenco-redondo-doble",
+        name: "Cuenco redondo doble",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594144/cuenco-redondo-doble-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594144/cuenco-redondo-doble-2.jpg",
+        ],
+      },
+      {
+        id: "cuenco-corazon",
+        name: "Cuenco corazón",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594143/cuenco-corazon-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594143/cuenco-corazon-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594141/cuenco-corazon-3.jpg",
+        ],
+      },
+      {
+        id: "cuenco-hexagonal-chico",
+        name: "Cuenco hexagonal chico",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594141/cuenco-hexagonal-chico-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594141/cuenco-hexagonal-chico-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594140/cuenco-hexagonal-chico-3.jpg",
+        ],
+      },
+      {
+        id: "cuenco-corazon-trenzado",
+        name: "Cuenco corazón trenzado",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594140/cuenco-corazon-trenzado-1.jpg",
+        ],
+      },
+      {
+        id: "cuenco-elefante",
+        name: "Cuenco elefante",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594138/cuenco-elefante-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594138/cuenco-elefante-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594138/cuenco-elefante-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787594137/cuenco-elefante-video.mp4",
+      },
+      {
+        id: "cuenco-rosa-grande",
+        name: "Cuenco rosa grande",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594137/cuenco-rosa-grande-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594135/cuenco-rosa-grande-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594135/cuenco-rosa-grande-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787594135/cuenco-rosa-grande-video.mp4",
+      },
+      {
+        id: "cuenco-flor-loto",
+        name: "Cuenco flor de loto",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594134/cuenco-flor-loto-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594134/cuenco-flor-loto-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594133/cuenco-flor-loto-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787594131/cuenco-flor-loto-video.mp4",
+      },
+      {
+        id: "cuenco-alhajero-corazon",
+        name: "Cuenco alhajero corazón",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594129/cuenco-alhajero-corazon-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594129/cuenco-alhajero-corazon-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787594130/cuenco-alhajero-corazon-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787594130/cuenco-alhajero-corazon-video.mp4",
       },
     ],
   },
