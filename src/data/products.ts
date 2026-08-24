@@ -660,6 +660,7 @@ export const CATEGORIES: Category[] = [
         name: "Cuenco redondo doble",
         description: "",
         images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787596804/cuenco-redondo-doble-3.jpg",
           "https://res.cloudinary.com/degpir9vr/image/upload/v1787594144/cuenco-redondo-doble-1.jpg",
           "https://res.cloudinary.com/degpir9vr/image/upload/v1787594144/cuenco-redondo-doble-2.jpg",
         ],
@@ -690,7 +691,10 @@ export const CATEGORIES: Category[] = [
         description: "",
         images: [
           "https://res.cloudinary.com/degpir9vr/image/upload/v1787594140/cuenco-corazon-trenzado-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787596804/cuenco-corazon-trenzado-2.jpg",
         ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787596805/cuenco-corazon-trenzado-video.mp4",
       },
       {
         id: "cuenco-elefante",
@@ -739,6 +743,18 @@ export const CATEGORIES: Category[] = [
         ],
         video:
           "https://res.cloudinary.com/degpir9vr/video/upload/v1787594130/cuenco-alhajero-corazon-video.mp4",
+      },
+      {
+        id: "cuenco-tortuga",
+        name: "Cuenco tortuga",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787596804/cuenco-tortuga-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787596804/cuenco-tortuga-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787596803/cuenco-tortuga-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787596804/cuenco-tortuga-video.mp4",
       },
     ],
   },
@@ -789,6 +805,202 @@ export const CATEGORIES: Category[] = [
         ],
         video:
           "https://res.cloudinary.com/degpir9vr/video/upload/v1787527305/florero-rayado-chico-video.mp4",
+      },
+      {
+        id: "bandeja-ovalada-18cm",
+        name: "Bandeja ovalada 18cm",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602096/bandeja-ovalada-18cm-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602097/bandeja-ovalada-18cm-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602098/bandeja-ovalada-18cm-3.jpg",
+        ],
+      },
+      {
+        id: "bandeja-ovalada-24cm",
+        name: "Bandeja ovalada 24cm",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602098/bandeja-ovalada-24cm-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602099/bandeja-ovalada-24cm-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602100/bandeja-ovalada-24cm-3.jpg",
+        ],
+      },
+      {
+        id: "bandeja-ovalada-globitos",
+        name: "Bandeja ovalada globitos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602101/bandeja-ovalada-globos-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602101/bandeja-ovalada-globos-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602102/bandeja-ovalada-globos-3.jpg",
+        ],
+      },
+      {
+        id: "bandeja-corazon-globitos",
+        name: "Bandeja corazón globitos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602090/bandeja-corazon-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602090/bandeja-corazon-2.jpg",
+        ],
+      },
+      {
+        id: "bandeja-redonda-globitos",
+        name: "Bandeja redonda globitos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602110/bandeja-redonda-globos.jpg",
+        ],
+      },
+      {
+        id: "bandeja-arcoiris",
+        name: "Bandeja arcoíris",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602090/bandeja-arcoiris-1.jpg",
+        ],
+      },
+      {
+        id: "bandeja-ovalada-irregular-24cm",
+        name: "Bandeja ovalada irregular 24cm",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602103/bandeja-ovalada-irregular-24cm-1.jpg",
+        ],
+      },
+      {
+        id: "bandeja-redonda-irregular",
+        name: "Bandeja redonda irregular",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602110/bandeja-redonda-irregular-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602111/bandeja-redonda-irregular-2.jpg",
+        ],
+      },
+      {
+        id: "bandeja-mono",
+        name: "Bandeja con moño",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602094/bandeja-mo%C3%B1o-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602094/bandeja-mo%C3%B1o-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602095/bandeja-mo%C3%B1o-3.jpg",
+        ],
+      },
+      {
+        id: "bandeja-ovalada-mariposa-18cm",
+        name: "Bandeja ovalada mariposa 18cm",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602104/bandeja-ovalada-mariposa-1.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602104/bandeja-ovalada-mariposa-video.mp4",
+      },
+      {
+        id: "bandeja-ovalada-texturada-chica",
+        name: "Bandeja ovalada texturada chica",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602105/bandeja-ovalada-texturada-chica-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602107/bandeja-ovalada-texturada-chica-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602108/bandeja-ovalada-texturada-grande-chica.jpg",
+        ],
+      },
+      {
+        id: "bandeja-ovalada-texturada-grande",
+        name: "Bandeja ovalada texturada grande",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602107/bandeja-ovalada-texturada-grande-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602108/bandeja-ovalada-texturada-grande-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602108/bandeja-ovalada-texturada-grande-chica.jpg",
+        ],
+      },
+      {
+        id: "bandeja-redonda-lisa-chica",
+        name: "Bandeja redonda lisa chica",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602111/bandeja-redonda-lisa-chica-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602112/bandeja-redonda-lisa-chica-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602114/bandeja-redonda-lisa-chica-video.mp4",
+      },
+      {
+        id: "bandeja-redonda-lisa-grande",
+        name: "Bandeja redonda lisa grande",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602114/bandeja-redonda-lisa-grande-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602114/bandeja-redonda-lisa-grande-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602115/bandeja-redonda-lisa-grande-video.mp4",
+      },
+      {
+        id: "bandeja-redonda-ojos",
+        name: "Bandeja redonda ojos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602116/bandeja-redonda-ojos-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602116/bandeja-redonda-ojos-2.jpg",
+        ],
+      },
+      {
+        id: "portasahumerio-namaste",
+        name: "Porta sahumerio Namaste",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602125/portasahumerio-namaste-1.jpg",
+        ],
+      },
+      {
+        id: "huevo-roto-grande",
+        name: "Huevo roto grande",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602122/huevo-roto-grande-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602122/huevo-roto-grande-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602123/huevo-roto-grande-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602125/huevo-roto-grande-video.mp4",
+      },
+      {
+        id: "huevo-roto-chico",
+        name: "Huevo roto chico",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602119/huevo-roto-chico-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602120/huevo-roto-chico-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602120/huevo-roto-chico-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602121/huevo-roto-chico-video.mp4",
+      },
+      {
+        id: "figura-pensamiento",
+        name: "Figura pensamiento",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602117/figura-pensamiento-1.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602119/figura-pensamiento-video.mp4",
+      },
+      {
+        id: "angelitos",
+        name: "Angelitos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602089/angelitos-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1787602089/angelitos-2.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1787602091/angelitos-video.mp4",
       },
     ],
   },
