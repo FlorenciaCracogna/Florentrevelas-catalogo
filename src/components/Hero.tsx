@@ -1,9 +1,6 @@
-import { buildWhatsAppLink } from "@/data/products";
-import WhatsAppButton from "./WhatsAppButton";
-
 export default function Hero() {
   return (
-    <header className="paper-texture relative overflow-hidden">
+    <header className="paper-texture relative overflow-hidden flex flex-col sm:min-h-screen sm:justify-center">
       {/* Decoración: círculos concéntricos sage */}
       <div
         aria-hidden="true"
@@ -74,16 +71,20 @@ export default function Hero() {
         </p>
 
         <div className="mt-10 flex flex-col items-center gap-3 sm:flex-row sm:justify-center sm:gap-4">
-          <WhatsAppButton
-            href={buildWhatsAppLink()}
-            label="Consultar por WhatsApp"
-          />
-          <a
-            href="#velas-de-molde"
-            className="inline-flex items-center justify-center rounded-full border border-tan px-6 py-3 text-sm font-semibold text-espresso transition-all duration-300 hover:bg-tan/20 hover:-translate-y-0.5"
-          >
-            Ver catálogo
-          </a>
+          <div className="mt-10 flex flex-col items-center gap-3 sm:flex-row sm:justify-center sm:gap-4">
+            <a
+              href="#como-comprar"
+              className="inline-flex items-center justify-center rounded-full bg-sage px-6 py-3 text-sm font-semibold text-cream transition-all duration-300 hover:bg-sage/90 hover:-translate-y-0.5 hover:shadow-md"
+            >
+              Cómo comprar
+            </a>
+            <a
+              href="#velas-de-molde"
+              className="inline-flex items-center justify-center rounded-full border border-tan px-6 py-3 text-sm font-semibold text-espresso transition-all duration-300 hover:bg-tan/20 hover:-translate-y-0.5"
+            >
+              Ver catálogo
+            </a>
+          </div>
         </div>
       </div>
     </header>

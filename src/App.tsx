@@ -1,11 +1,12 @@
-import { useEffect, useState } from 'react';
-import { CATEGORIES } from '@/data/products';
-import Hero from '@/components/Hero';
-import CategoryNav from '@/components/CategoryNav';
-import CategorySection from '@/components/CategorySection';
-import Footer from '@/components/Footer';
+import { useEffect, useState } from "react";
+import { CATEGORIES } from "@/data/products";
+import Hero from "@/components/Hero";
+import HowToBuySection from "@/components/HowToBuySection";
+import CategoryNav from "@/components/CategoryNav";
+import CategorySection from "@/components/CategorySection";
+import Footer from "@/components/Footer";
 
-const ACCENTS = ['sage', 'tan', 'sage'] as const;
+const ACCENTS = ["sage", "tan", "sage"] as const;
 
 export default function App() {
   const [activeId, setActiveId] = useState<string>(CATEGORIES[0].id);
@@ -20,7 +21,7 @@ export default function App() {
           }
         });
       },
-      { rootMargin: '-30% 0px -60% 0px' }
+      { rootMargin: "-30% 0px -60% 0px" },
     );
 
     CATEGORIES.forEach((cat) => {
@@ -33,12 +34,14 @@ export default function App() {
 
   const handleSelect = (id: string) => {
     setActiveId(id);
-    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
+    document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
   };
 
   return (
     <div className="min-h-screen paper-texture">
       <Hero />
+
+      <HowToBuySection />
 
       <CategoryNav
         categoryIds={CATEGORIES.map((c) => ({ id: c.id, title: c.title }))}
