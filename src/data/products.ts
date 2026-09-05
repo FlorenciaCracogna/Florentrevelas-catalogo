@@ -439,6 +439,66 @@ export const CATEGORIES: Category[] = [
         video:
           "https://res.cloudinary.com/degpir9vr/video/upload/v1787525803/rosas-chicas-variadas-video.mp4",
       },
+      {
+        id: "pato",
+        name: "Pato",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571581/pato-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571581/pato-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571582/pato-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1788571584/pato-video.mp4",
+      },
+      {
+        id: "llama",
+        name: "Llama",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571578/llama-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571578/llama-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571579/llama-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1788571580/llama-video.mp4",
+      },
+      {
+        id: "elefante",
+        name: "Elefante",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571573/elefante-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571573/elefante-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571576/elefante-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1788571577/elefante-video.mp4",
+      },
+      {
+        id: "dinosaurio",
+        name: "Dinosaurio",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571572/dino-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571572/dino-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571573/dino-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1788571574/dino-video.mp4",
+      },
+      {
+        id: "rana",
+        name: "Rana",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571584/rana-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571584/rana-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788571585/rana-3.jpg",
+        ],
+        video:
+          "https://res.cloudinary.com/degpir9vr/video/upload/v1788571585/rana-video.mp4",
+      },
     ],
   },
   {
@@ -1001,6 +1061,197 @@ export const CATEGORIES: Category[] = [
         ],
         video:
           "https://res.cloudinary.com/degpir9vr/video/upload/v1787602091/angelitos-video.mp4",
+      },
+    ],
+  },
+  {
+    id: "mayorista",
+    title: "Pedidos por mayor",
+    subtitle:
+      "A partir de 10 unidades ya es pedido mayorista, con precio diferencial. Consultanos por WhatsApp contándonos qué necesitás, para cuándo y buscamos la mejor opción para vos.",
+    products: [
+      {
+        id: "souvenir-cumpleanos-animales",
+        name: "Souvenir cumpleaños animales",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566715/souvenir-cumplea%C3%B1os-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566715/souvenir-cumplea%C3%B1os-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566716/souvenir-cumplea%C3%B1os-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566716/souvenir-cumplea%C3%B1os-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566719/souvenir-cumplea%C3%B1os-5.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566719/souvenir-cumplea%C3%B1os-6.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566719/souvenir-cumplea%C3%B1os-7.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566720/souvenir-cumplea%C3%B1os-8.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566722/souvenir-cumplea%C3%B1os-9.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566723/souvenir-cumplea%C3%B1os-10.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566723/souvenir-cumplea%C3%B1os-11.jpg",
+        ],
+      },
+      {
+        id: "souvenir-oso",
+        name: "Souvenir oso",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566753/souvenir-oso-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566754/souvenir-oso-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566754/souvenir-oso-3.jpg",
+        ],
+      },
+      {
+        id: "souvenir-nacimiento-leon",
+        name: "Souvenir nacimiento león",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566749/souvenir-nacimiento-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566749/souvenir-nacimiento-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566750/souvenir-nacimiento-3.jpg",
+        ],
+      },
+      {
+        id: "souvenir-mini-bubble",
+        name: "Souvenir mini bubble",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566746/souvenir-minibubble-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566746/souvenir-minibubble-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566747/souvenir-minibubble-3.jpg",
+        ],
+      },
+      {
+        id: "souvenir-margaritas",
+        name: "Souvenir margaritas",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566739/souvenir-margaritas-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566740/souvenir-margaritas-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566741/souvenir-margaritas-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566742/souvenir-margaritas-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566743/souvenir-margaritas-5.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566743/souvenir-margaritas-6.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566744/souvenir-margaritas-7.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566746/souvenir-margaritas-8.jpg",
+        ],
+      },
+      {
+        id: "souvenir-huevo-roto",
+        name: "Souvenir de yeso cerámico (Huevo roto)",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566734/souvenir-huevo-roto-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566735/souvenir-huevo-roto-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566737/souvenir-huevo-roto-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566738/souvenir-huevo-roto-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566739/souvenir-huevo-roto-5.jpg",
+        ],
+      },
+      {
+        id: "souvenir-totoro",
+        name: "Souvenir Totoro",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566732/souvenir-cumplea%C3%B1os-totoro-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566733/souvenir-cumplea%C3%B1os-totoro-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566734/souvenir-cumplea%C3%B1os-totoro-3.jpg",
+        ],
+      },
+      {
+        id: "souvenir-nacimiento-dos",
+        name: "Souvenir nacimiento",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566750/souvenir-nacimiento-dos-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566750/souvenir-nacimiento-dos-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566753/souvenir-nacimiento-dos-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566753/souvenir-nacimiento-dos-4.jpg",
+        ],
+      },
+      {
+        id: "souvenir-cumpleanos-margarita",
+        name: "Souvenir cumpleaños margarita",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566730/souvenir-cumplea%C3%B1os-margarita-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566731/souvenir-cumplea%C3%B1os-margarita-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566732/souvenir-cumplea%C3%B1os-margarita-3.jpg",
+        ],
+      },
+      {
+        id: "souvenir-cumpleanos-leon",
+        name: "Souvenir cumpleaños león",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566727/souvenir-cumplea%C3%B1os-leon-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566727/souvenir-cumplea%C3%B1os-leon-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566728/souvenir-cumplea%C3%B1os-leon-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566730/souvenir-cumplea%C3%B1os-leon-4.jpg",
+        ],
+      },
+      {
+        id: "souvenir-cumpleanos-minibubble",
+        name: "Souvenir cumpleaños mini bubble",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566723/souvenir-cumplea%C3%B1os-dos-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566724/souvenir-cumplea%C3%B1os-dos-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566725/souvenir-cumplea%C3%B1os-dos-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566726/souvenir-cumplea%C3%B1os-dos-4.jpg",
+        ],
+      },
+      {
+        id: "souvenir-baby-shower-minibubble",
+        name: "Souvenir baby shower mini bubble",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566711/souvenir-baby-shower-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566711/souvenir-baby-shower-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566711/souvenir-baby-shower-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566712/souvenir-baby-shower-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566715/souvenir-baby-shower-5.jpg",
+        ],
+      },
+      {
+        id: "san-valentin",
+        name: "San Valentín",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566709/san-valentin-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566711/san-valentin-2.jpg",
+        ],
+      },
+      {
+        id: "regalos-empresariales",
+        name: "Regalos empresariales",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566706/regalos-empresariales-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566708/regalos-empresariales-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566708/regalos-empresariales-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566708/regalos-empresariales-4.jpg",
+        ],
+      },
+      {
+        id: "dias-festivos",
+        name: "Días festivos",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566704/dias-festivos-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566705/dias-festivos-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566705/dias-festivos-3.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566705/dias-festivos-4.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566705/dias-festivos-5.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566705/dias-festivos-6.jpg",
+        ],
+      },
+      {
+        id: "dia-madre",
+        name: "Día de la madre",
+        description: "",
+        images: [
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566704/dia-madre-1.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566705/dia-madre-2.jpg",
+          "https://res.cloudinary.com/degpir9vr/image/upload/v1788566704/dia-madre-3.jpg",
+        ],
       },
     ],
   },
