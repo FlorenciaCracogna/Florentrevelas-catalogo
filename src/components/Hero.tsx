@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <header className="paper-texture relative overflow-hidden flex flex-col sm:min-h-screen sm:justify-center">
+    <header className="paper-texture relative overflow-hidden flex flex-col min-h-screen justify-center">
       {/* Decoración: círculos concéntricos sage */}
       <div
         aria-hidden="true"
